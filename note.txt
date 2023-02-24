@@ -1,0 +1,1 @@
+we use regence to check if a particular word is 
